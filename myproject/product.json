@@ -2,7 +2,7 @@
     {
         "id": 1,
         "display_name": "Bio-Peel Gauze Peeling Pads",
-        "product_category": "exfoliator",
+        "sub_category": "exfoliator",
         "category": "skin care",
         "category_id": 1,
         "image": "lemon_exfoliator.jpg",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "display_name": "Super Volcanic Clusters Pore Clearing Clay Mask",
-        "product_category": "exfoliator",
+        "sub_category": "exfoliator",
         "category": "skin care",
         "category_id": 1,     
         "image": "claymask_exfoliator.jpg",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "display_name": " Klairs Rich Moist Foaming Cleanser",
-        "product_category": "cleanser",
+        "sub_category": "cleanser",
         "category": "skin care",
         "category_id": 1,        
         "image": "klairs_cleanser.jpg",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "display_name": "Banila Co.Dear Hydration Toner",
-        "product_category": "toner",
+        "sub_category": "toner",
         "category": "skin care",
         "category_id": 1,        
         "image": "banila_toner.jpg",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "display_name": "Klairs Supple Preparation Facial Toner",
-        "product_category": "toner",
+        "sub_category": "toner",
         "category": "skin care",
         "category_id": 1,        
         "image": "klairs_toner.jpg",
