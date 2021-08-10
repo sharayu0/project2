@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 2,
+        "category": "body care"
+    },
+
+    {
+        "id": 3,
+        "category": "eye care"
+    },
+
+    {
+        "id": 4,
+        "category": "hair care"
+    },
+
+    {
+        "id": 5,
+        "category": "makeup & tools"
+    },
+
+    {
+        "id": 6,
+        "category": "beauty equipment"
+    },
+
+    {
+        "id": 7,
+        "category": "fragrance & deodorant"
+    }
+]

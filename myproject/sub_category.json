@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "sub_category": "exfoliators",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 2,
+        "sub_category": "cleanser",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 3,
+        "sub_category": "toner",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 4,
+        "sub_category": "serum & essence",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 5,
+        "sub_category": "Masks",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 6,
+        "sub_category": "Moisturizer",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 7,
+        "sub_category": "sun care",
+        "category_id": 1,
+        "category": "skin care"
+    },
+
+    {
+        "id": 8,
+        "sub_category": "bath supplies",
+        "category_id": 2,
+        "category": "body care"
+    },
+
+    {  
+        "id": 9,
+        "sub_category": "masks",
+        "category_id": 2,
+        "category": "body care"
+    },
+
+    {
+        "id": 10,
+        "sub_category": "moisturizer",
+        "category_id": 2,
+        "category": "body care"
+    },
+
+    {
+        "id": 11,
+        "sub_category": "shaving & hair removal",
+        "category_id": 2,
+        "category": "body care"
+    },
+
+    {
+        "id": 12,
+        "sub_category": "sanitary paper",
+        "category_id": 2,
+        "category": "body care"
+    },
+
+    {
+        "id": 13,
+        "sub_category": "eye creams",
+        "category_id": 3,
+        "category": "eye care"
+    },
+
+    {
+        "id": 14,
+        "sub_category": "eye masks",
+        "category_id": 3,
+        "category": "eye care"
+    }
+]
